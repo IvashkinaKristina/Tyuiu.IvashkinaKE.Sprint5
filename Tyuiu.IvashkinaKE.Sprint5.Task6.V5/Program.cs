@@ -16,7 +16,7 @@ namespace Tyuiu.IvashkinaKE.Sprint5.Task6.V5
             Console.Title = "Спринт #5 | Выполнила: Ивашкина К. Э.  | АСОиУБ-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
-            Console.WriteLine("* Тема: Чтение набора данных из текстового файла                          *");
+            Console.WriteLine("* Тема: Обработка текстовых файлов                                        *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнила: Ивашкина Кристина Эдуардовна | АСОиУБ-23-1                   *");
